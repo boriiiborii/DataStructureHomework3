@@ -7,7 +7,7 @@ plist[0] = (int *)malloc(sizeof(int));
 list[0] = 1;
 list[1] = 100;
 *plist[0] = 200;
-printf("[----- [HwaJinLee]  [2020037103] -----]");
+printf("[----- [HwaJinLee]  [2020037103] -----]\n");
 printf("list[0] = %d\n", list[0]);
 printf("&list[0] = %p\n", &list[0]);
 printf("list = %p\n", list);
